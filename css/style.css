@@ -1,5 +1,5 @@
 html {
-	min-height: 120%;
+	min-height: 150%;
 	position: relative;
 	box-shadow: 0 0 100px rgba(0, 0, 0, 0.27) inset;
 }
@@ -11,10 +11,10 @@ body {
 	font-family: "Lucida Sans Unicode", Verdana;
 }
 
-.whiteFont {color: #fff;}
-.padding20 {padding: 20px;}
-.padding40 {padding: 40px;}
-.blueBackground {background-color: #1ab;}
+.whiteFont {color: #111;}
+.padding20 {padding: 10px;}
+.padding40 {padding: 20px;}
+.blueBackground {background-color: #cef086d2;}
 
 .navbar-default .navbar-toggle {border-color: #888;}
 
@@ -29,9 +29,9 @@ body {
 }
 
 ul.nav.navbar-nav.navbar-right li a:hover, ul.nav.navbar-nav.navbar-right li.active a {
-	color: #999;
+	color: #333;
 	background: none;
-	border-bottom: 1px solid #fdff7a;
+	border-bottom: 1px solid #383838;
 }
 
 footer {

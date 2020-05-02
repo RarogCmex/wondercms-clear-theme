@@ -29,7 +29,7 @@ body {
 }
 
 ul.nav.navbar-nav.navbar-right li a:hover, ul.nav.navbar-nav.navbar-right li.active a {
-	color: #fcfce1;
+	color: #999;
 	background: none;
 	border-bottom: 1px solid #fdff7a;
 }

@@ -1,12 +1,12 @@
 html {
-	min-height: 100%;
+	min-height: 120%;
 	position: relative;
 	box-shadow: 0 0 100px rgba(0, 0, 0, 0.27) inset;
 }
 
 body {
 	color: #555;
-	background: #eee;
+	background: #fcfcfa;
 	margin-bottom: 60px;
 	font-family: "Lucida Sans Unicode", Verdana;
 }
@@ -29,9 +29,9 @@ body {
 }
 
 ul.nav.navbar-nav.navbar-right li a:hover, ul.nav.navbar-nav.navbar-right li.active a {
-	color: #1ab;
+	color: #fcfce1;
 	background: none;
-	border-bottom: 1px solid #1ab;
+	border-bottom: 1px solid #fdff7a;
 }
 
 footer {
